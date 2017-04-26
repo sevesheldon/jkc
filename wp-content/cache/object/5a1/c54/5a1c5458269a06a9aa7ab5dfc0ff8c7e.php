@@ -1,0 +1,19 @@
+ÄYùX<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"533";s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2015-07-01 11:57:08";s:13:"post_date_gmt";s:19:"2015-07-01 11:57:08";s:12:"post_content";s:2953:"Choosing roofing for your home is a big decision. One of the factors that makes it difficult is the fact there are so many options to select from available to you. Without a doubt, you need to choose roofing that will look great on your home, but it also needs to be durable. Which product should you choose? Does brand matter? Before you make this decision, consider a few important tips that can make all of the difference in the process.
+
+Think Energy Efficient
+
+While you may be looking for durability, you also want to consider the actual energy efficiency of roofing. Products range significantly. For example, asphalt shingles, one of the most common products, are only moderately efficient, if you purchase the newest styles and designs. On the other hand, installing metal roofing - which no longer is something just for commercial buildings, will allow you to have a much higher level of energy efficiency. These roofs work well to block the sun's rays from heating the interior of the home, reducing your air conditioning use. Consider other eco-friendly products as well. These roofs are also less likely to need maintenance and repair (and some last as long as 40 years.) But, this is just one option available to you.
+
+Look for Warranties
+
+Warranties on roofs are a big factor when buying one type of material over another. They also range from one manufacturer to the next. Several things are important to consider. First, products like asphalt shingles are significantly less expensive than purchasing other products. These tend to have a lifespan up to 20 years. Metal roofs can last 20 to 40 years. Clay or tile roofs tend to have a lifespan of 10 to 15 years. Many other products are out there. When you are buying, though, look beyond the expected lifespan and determine what the warranty from the manufacturer is. This will give you a good indication of durability.
+
+Think Character
+
+Sure, you want a roof that is durable and going to last as long as possible, but that is not all there is to think about when making this type of purchase. Think about the character the roof adds to any space. For example, wood, such as cedar or redwood can make a significant difference in the look of your home. And, they can last up to 25 years. You could go with slate as well, which is more expensive, but offers perhaps the very best in terms of both style and long life - these can last 100 years or longer. You could go with cement or tile, too. Colors, patterns, and overall tile style all impact the look of your home.
+
+When it comes to buying roofing, work closely with a contractor. Have an in-house consultation to discuss your specific needs and ideas. Then, <a href="JosephKetnerConstruction.com">work with your contractor </a>to choose the right combination of cost, warranties, durability, and character. This way, you end up not having to worry about your roof because it is secure and beautiful.
+
+&nbsp;
+
+&nbsp;";s:10:"post_title";s:33:"Choosing the Most Durable Roofing";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:24:"choosing-durable-roofing";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-11-13 00:27:23";s:17:"post_modified_gmt";s:19:"2015-11-13 00:27:23";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:46:"http://www.josephketnerconstruction.com/?p=533";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

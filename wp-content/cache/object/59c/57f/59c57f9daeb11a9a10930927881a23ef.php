@@ -1,0 +1,1 @@
+ˆYùX<?php exit; ?>a:1:{s:7:"content";s:40:"a:1:{s:12:"josephketner";s:7:"/themes";}";}

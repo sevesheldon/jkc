@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]>
+
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<!--<![endif]-->
+
+<head> 
+
+	<meta charset="UTF-8">
+
+	<meta name="viewport" content="width=device-width">
+
+	
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<link rel="pingback" href="http://www.josephketnerconstruction.com/xmlrpc.php">
+
+    <link href='http://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+	<!--[if lt IE 9]>
+
+	<script src="http://www.josephketnerconstruction.com/wp-content/themes/josephketner/js/html5.js"></script>
+
+	<![endif]-->
+
+	
+<!-- This site is optimized with the Yoast SEO plugin v4.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Gallery | Joseph Ketner Construction</title>
+<meta name="description" content="Browse our gallery below and call us at (503) 504-6263 to schedule a consultation or for any questions you may have."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.josephketnerconstruction.com/gallery/" />
+<link rel="publisher" href="https://plus.google.com/u/0/100000960324101092275"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Gallery | Joseph Ketner Construction" />
+<meta property="og:description" content="Browse our gallery below and call us at (503) 504-6263 to schedule a consultation or for any questions you may have." />
+<meta property="og:url" content="http://www.josephketnerconstruction.com/gallery/" />
+<meta property="og:site_name" content="Joseph Ketner Construction" />
+<meta property="article:publisher" content="https://www.facebook.com/JosephKetnerConstruction" />
+<meta property="og:image" content="http://www.josephketnerconstruction.com/wp-content/uploads/2014/05/slider-5.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Browse our gallery below and call us at (503) 504-6263 to schedule a consultation or for any questions you may have." />
+<meta name="twitter:title" content="Gallery | Joseph Ketner Construction" />
+<meta name="twitter:site" content="@joseph_ketner" />
+<meta name="twitter:image" content="http://www.josephketnerconstruction.com/wp-content/uploads/2014/05/slider-5.jpg" />
+<meta name="twitter:creator" content="@joseph_ketner" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Joseph Ketner Construction &raquo; Feed" href="http://www.josephketnerconstruction.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Joseph Ketner Construction &raquo; Comments Feed" href="http://www.josephketnerconstruction.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Joseph Ketner Construction &raquo; Gallery Comments Feed" href="http://www.josephketnerconstruction.com/gallery/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.josephketnerconstruction.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.5"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cntctfrm_form_style-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/contact-form-plugin/css/form_style.css?ver=4.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='gglcptch-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/google-captcha/css/gglcptch.css?ver=1.28' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.josephketnerconstruction.com/wp-includes/css/dashicons.min.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.josephketnerconstruction.com/wp-includes/js/thickbox/thickbox.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='josephketner-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.josephketnerconstruction.com/wp-content/themes/josephketner/fonts/genericons.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='josephketner-style-css'  href='http://www.josephketnerconstruction.com/wp-content/themes/josephketner/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='josephketner-ie-css'  href='http://www.josephketnerconstruction.com/wp-content/themes/josephketner/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cyclone-template-style-dark-0-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/templates/dark/style.css?ver=2.12.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-default-0-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/templates/default/style.css?ver=2.12.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-standard-0-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.12.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-thumbnails-0-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/templates/thumbnails/style.css?ver=2.12.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"http:\/\/www.josephketnerconstruction.com\/?photocrati_ajax=1","wp_home_url":"http:\/\/www.josephketnerconstruction.com","wp_site_url":"http:\/\/www.josephketnerconstruction.com","wp_root_url":"http:\/\/www.josephketnerconstruction.com","wp_plugins_url":"http:\/\/www.josephketnerconstruction.com\/wp-content\/plugins","wp_content_url":"http:\/\/www.josephketnerconstruction.com\/wp-content","wp_includes_url":"http:\/\/www.josephketnerconstruction.com\/wp-includes\/","ngg_param_slug":"nggallery"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.min.js?ver=2.2.3'></script>
+<link rel='https://api.w.org/' href='http://www.josephketnerconstruction.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.josephketnerconstruction.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.josephketnerconstruction.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.5" />
+<link rel='shortlink' href='http://www.josephketnerconstruction.com/?p=7' />
+<link rel="alternate" type="application/json+oembed" href="http://www.josephketnerconstruction.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.josephketnerconstruction.com%2Fgallery%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.josephketnerconstruction.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.josephketnerconstruction.com%2Fgallery%2F&#038;format=xml" />
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/anti-captcha/anti-captcha-0.3.js.php?ver=bf5cd8b2509011b9502a72296edc14a0'></script>
+<!-- <meta name="NextGEN" version="2.2.3" /> -->
+<!-- All in one Favicon 4.5 --><link rel="shortcut icon" href="http://www.josephketnerconstruction.com/wp-content/uploads/2015/02/favicon.ico" />
+<link rel="icon" href="http://www.josephketnerconstruction.com/wp-content/uploads/2015/02/favicon.ico" type="image/gif"/>
+<link rel="icon" href="http://www.josephketnerconstruction.com/wp-content/uploads/2015/02/favicon.ico" type="image/png"/>
+<link rel="apple-touch-icon" href="http://www.josephketnerconstruction.com/wp-content/uploads/2015/02/favicon.ico" />
+	<style type="text/css" id="josephketner-header-css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+			.site-header .home-link {
+			min-height: 0;
+		}
+		</style>
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script>
+
+$(document).ready(function(){
+
+  $(".clk-here-cntct").click(function(){
+
+    $(".clk-here-form").toggle(4000);
+
+  });
+
+});
+
+</script>
+
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+  ga('create', 'UA-59340273-1', 'auto');
+
+  ga('send', 'pageview');
+
+
+
+</script>
+
+<!-- Hotjar Tracking Code for http://www.josephketnerconstruction.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:437505,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<link rel='stylesheet' id='ngg_trigger_buttons-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/trigger_buttons.min.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fontawesome/font-awesome.min.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_basic_thumbnails_style-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.min.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_pagination_style-css'  href='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pagination/static/style.min.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='nggallery-css'  href='http://www.josephketnerconstruction.com/wp-content/ngg_styles/nggallery.css?ver=2.2.3' type='text/css' media='all' />
+</head>
+
+
+
+<body class="page page-id-7 page-template-default">
+
+
+
+	<div class="contact-on-right">
+
+        <div class="contact-div-right">
+
+            <div class="clk-here-cntct">Click here to contact us</div>
+
+            <div class="clk-here-form"><form method="post" id="cntctfrm_contact_form" class="cntctfrm_contact_form cntctfrm_one_column cntctfrm_ltr" action="/gallery/#cntctfrm_contact_form" enctype="multipart/form-data"><div id="cntctfrm_first_column" class="cntctfrm_column"><div class="cntctfrm_field_wrap cntctfrm_field_name_wrap"><div class="cntctfrm_label cntctfrm_label_name">
+										<label for="cntctfrm_contact_name">Name: <span class="required">*</span></label></div><div class="cntctfrm_input cntctfrm_input_name">
+										<input class="text" type="text" size="40" value="" name="cntctfrm_contact_name" id="cntctfrm_contact_name" /></div></div><div class="cntctfrm_field_wrap cntctfrm_field_email_wrap"><div class="cntctfrm_label cntctfrm_label_email">
+										<label for="cntctfrm_contact_email">Email Address: <span class="required">*</span></label>
+									</div><div class="cntctfrm_input cntctfrm_input_email">
+										<input class="text" type="text" size="40" value="" name="cntctfrm_contact_email" id="cntctfrm_contact_email" /></div></div><div class="cntctfrm_field_wrap cntctfrm_field_phone_wrap"><div class="cntctfrm_label cntctfrm_label_phone">
+											<label for="cntctfrm_contact_phone">Phone number: <span class="required">*</span></label>
+										</div><div class="cntctfrm_input cntctfrm_input_phone">
+										<input class="text" type="text" size="40" value="" name="cntctfrm_contact_phone" id="cntctfrm_contact_phone" /></div></div><div class="cntctfrm_field_wrap cntctfrm_field_subject_wrap"><div class="cntctfrm_label cntctfrm_label_subject">
+										<label for="cntctfrm_contact_subject">Subject: <span class="required">*</span></label>
+									</div><div class="cntctfrm_input cntctfrm_input_subject">
+									<input class="text" type="text" size="40" value="" name="cntctfrm_contact_subject" id="cntctfrm_contact_subject" /></div></div><div class="cntctfrm_field_wrap cntctfrm_field_message_wrap"><div class="cntctfrm_label cntctfrm_label_message">
+									<label for="cntctfrm_contact_message">Message: <span class="required">*</span></label>
+								</div><div class="cntctfrm_input cntctfrm_input_message">
+									<textarea rows="5" cols="30" name="cntctfrm_contact_message" id="cntctfrm_contact_message"></textarea></div></div><div class="cntctfrm_field_wrap cntctfrm_field_captcha_wrap"><div class="cntctfrm_label cntctfrm_label_captcha">
+											<label></label>
+										</div><div class="cntctfrm_input cntctfrm_input_captcha"><div class="gglcptch gglcptch_v2"><div id="gglcptch_recaptcha_627746529" class="gglcptch_recaptcha"></div>
+				<noscript>
+					<div style="width: 302px;">
+						<div style="width: 302px; height: 422px; position: relative;">
+							<div style="width: 302px; height: 422px; position: absolute;">
+								<iframe src="https://www.google.com/recaptcha/api/fallback?k=6Lcx5xcUAAAAAKVPhlNBaQR8Nksj6MVOJI2j96wb" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;"></iframe>
+							</div>
+						</div>
+						<div style="border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px; height: 60px; width: 300px;">
+							<textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px !important; height: 40px !important; border: 1px solid #c1c1c1 !important; margin: 10px 25px !important; padding: 0px !important; resize: none !important;"></textarea>
+						</div>
+					</div>
+				</noscript></div></div></div></div><div class="clear"></div><div class="cntctfrm_submit_wrap"><div id="cntctfrm_submit_first_column" class="cntctfrm_column"><div class="cntctfrm_input cntctfrm_input_submit" style="text-align: left !important;"><input type="hidden" value="send" name="cntctfrm_contact_action"><input type="hidden" value="Version: 3.30" />
+							<input type="hidden" value="default" name="cntctfrm_language">
+							<input type="hidden" value="1" name="cntctfrm_form_submited">
+							<input type="hidden" value="cntctfrm_options" name="cntctfrm_options_name">
+							<input type="submit" value="Submit" class="cntctfrm_contact_submit" />
+						</div></div><div id="cntctfrm_submit_second_column" class="cntctfrm_column"></div><div class="clear"></div>
+			</div>
+			</form></div>
+
+        </div>
+
+    </div>
+
+		<header id="masthead" class="site-header" role="banner">
+
+            <div class="site-header-top">
+
+                <div class="hfeed site">
+
+                	 <aside id="execphp-3" class="widget-1 widget-first widget-last widget-odd widget widget_execphp">			<div class="execphpwidget"><ul>	
+<li><a href="http://www.angieslist.com/companylist/us/or/sandy/joseph-ketner-construction-reviews-349310.htm"><img alt="check our rating on Angies List" src="http://www.josephketnerconstruction.com/wp-content/uploads/2016/05/anglies-logo.png" /></a></li>
+<li><a href="http://www.bbb.org/alaskaoregonwesternwashington/business-reviews/siding-contractors/joseph-ketner-construction-in-gresham-or-22005605/#bbbonlineclick" target="_blank" rel="nofollow"><img src="https://seal-alaskaoregonwesternwashington.bbb.org/seals/blue-seal-153-100-whitetxt-bbb-22005605.png" style="border: 0;" alt="Joseph Ketner Construction BBB Business Review" /></a></li>	
+</ul></div>
+		</aside>
+					 <aside id="social-widget-2" class="widget-1 widget-first widget-last widget-odd widget Social_Widget"><div class="socialmedia-buttons smw_left"><a href="https://twitter.com/joseph_ketner" rel="nofollow" target="_blank"><img width="24" height="24" src="http://www.josephketnerconstruction.com/wp-content/uploads/2015/01/twitter.png" 
+				alt="Follow Us on Twitter" 
+				title="Follow Us on Twitter"  class="bounce" /></a><a href="https://www.facebook.com/JosephKetnerConstruction" rel="nofollow" target="_blank"><img width="24" height="24" src="http://www.josephketnerconstruction.com/wp-content/uploads/2015/01/facebook.png" 
+				alt="Follow Us on Facebook" 
+				title="Follow Us on Facebook"  class="bounce" /></a><a href="https://plus.google.com/u/0/100000960324101092275/about/p/pub" rel="nofollow" target="_blank"><img width="24" height="24" src="http://www.josephketnerconstruction.com/wp-content/uploads/2015/01/googleplus.png" 
+				alt="Follow Us on Google Plus" 
+				title="Follow Us on Google Plus"  class="bounce" /></a><a href="https://www.youtube.com/channel/UCHDreGEO8JtNbH0QnNkgOgw" rel="nofollow" target="_blank"><img width="24" height="24" src="http://www.josephketnerconstruction.com/wp-content/uploads/2015/01/youtube-top.jpg" 
+				alt="Follow Us on Youtube" 
+				title="Follow Us on Youtube"  class="bounce" /></a><a href="http://www.houzz.com/pro/josephketnerconstruction/joseph-ketner-construction" rel="nofollow" target="_blank"><img width="24" height="24" src="http://www.josephketnerconstruction.com/wp-content/uploads/2015/01/houzz-icon.png" 
+				alt="Follow Us on Houzz" 
+				title="Follow Us on Houzz"  class="bounce" /></a></div></aside>
+                     <div class="menu-second-navigation-container"><ul id="menu-second-navigation" class="nav-menu"><li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="http://www.josephketnerconstruction.com/">Home</a></li>
+<li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="http://www.josephketnerconstruction.com/our-story/">About Us</a></li>
+<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="http://www.josephketnerconstruction.com/contact/">Contact</a></li>
+</ul></div>
+                </div>
+
+            </div>
+
+            <div class="hfeed site">
+
+                <div class="header-left">
+
+                    <a class="home-link" href="http://www.josephketnerconstruction.com/" title="Joseph Ketner Construction" rel="home">
+
+                        <img src="http://www.josephketnerconstruction.com/wp-content/themes/josephketner/images/logo.jpg" alt="Joseph Ketner" >
+
+                    </a> 
+                </div>
+
+                <div class="header-right">                    
+
+                    <div id="navbar" class="navbar">
+
+                        <nav id="site-navigation" class="navigation main-navigation" role="navigation">
+
+                            <h3 class="menu-toggle">Menu</h3>
+
+                            <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+
+                            <div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="nav-menu"><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-25"><a href="http://www.josephketnerconstruction.com/gallery/">Gallery</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30"><a href="http://www.josephketnerconstruction.com/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217"><a href="http://www.josephketnerconstruction.com/services/siding/">Siding</a></li>
+	<li id="menu-item-471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-471"><a href="http://www.josephketnerconstruction.com/james-hardie-siding/">James Hardie Siding</a></li>
+	<li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="http://www.josephketnerconstruction.com/windows-doors/">Windows &#038; Doors</a></li>
+	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="http://www.josephketnerconstruction.com/stone-masonry/">Stone Masonry</a></li>
+	<li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="http://www.josephketnerconstruction.com/porches-porticos/">Porches &#038; Porticos</a></li>
+	<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="http://www.josephketnerconstruction.com/decks/">Decks</a></li>
+	<li id="menu-item-429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-429"><a href="http://www.josephketnerconstruction.com/416-2/">Insulation</a></li>
+	<li id="menu-item-462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-462"><a href="http://www.josephketnerconstruction.com/exterior-design/">Exterior Design</a></li>
+	<li id="menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="http://www.josephketnerconstruction.com/historic-restoration/">Historic Restoration</a></li>
+	<li id="menu-item-465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-465"><a href="http://www.josephketnerconstruction.com/exterior-remodeling/">Design &#8211; Build</a></li>
+</ul>
+</li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.josephketnerconstruction.com/green-company/">Green Company</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.josephketnerconstruction.com/featured-projects/">Featured Projects</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://www.josephketnerconstruction.com/giving-back/">Giving Back</a></li>
+</ul></div>
+                        </nav><!-- #site-navigation -->
+
+                    </div><!-- #navbar -->
+
+                    <div class="header-right-top">
+
+                        <aside id="execphp-2" class="widget-1 widget-first widget-last widget-odd widget widget_execphp">			<div class="execphpwidget"><ul class="header-social-media">
+<li>(503) 504-6263
+<br/><a class="request-free-estimate" href="/contact">Request an In-Home Visit</a></li>	
+</ul></div>
+		</aside>
+                    </div>
+
+                </div>
+
+            </div>    
+
+		</header><!-- #masthead -->
+
+        
+		
+
+        	<div id="main" class="site-main">
+
+        		<div class="hfeed site">
+
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+						
+				<article id="post-7" class="post-7 page type-page status-publish hentry">
+					<header class="entry-header">
+						
+						<h1 class="entry-title">Gallery</h1>
+					</header><!-- .entry-header -->
+
+					<div class="entry-content">
+						<p>Browse our gallery below and call us at (503) 504-6263 to schedule a consultation or for any questions you may have.</p>
+
+<div class="ngg-galleryoverview" id="ngg-gallery-3adb2a193fe7b3a1199f94b58b1511c9-7">
+
+
+	<!-- Thumbnails -->
+    		
+	<div id="ngg-image-21" class="ngg-gallery-thumbnail-box" style="width:25%;" >
+		<div class="ngg-gallery-thumbnail" >
+			<a href="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image1.jpg"
+               title=" "
+               class='thickbox' rel='3adb2a193fe7b3a1199f94b58b1511c9' data-image-id="21" data-src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image1.jpg" data-thumbnail="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image1.jpg-nggid0221-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" data-title="image1" data-description=" " >
+								<img title="image1" alt="image1" src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image1.jpg-nggid0221-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" width='250' height='158' />
+							</a>
+		</div>
+	</div>
+
+                        
+ 		
+	<div id="ngg-image-22" class="ngg-gallery-thumbnail-box" style="width:25%;" >
+		<div class="ngg-gallery-thumbnail" >
+			<a href="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image2.jpg"
+               title=" "
+               class='thickbox' rel='3adb2a193fe7b3a1199f94b58b1511c9' data-image-id="22" data-src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image2.jpg" data-thumbnail="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image2.jpg-nggid0222-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" data-title="image2" data-description=" " >
+								<img title="image2" alt="image2" src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image2.jpg-nggid0222-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" width='250' height='158' />
+							</a>
+		</div>
+	</div>
+
+                        
+ 		
+	<div id="ngg-image-23" class="ngg-gallery-thumbnail-box" style="width:25%;" >
+		<div class="ngg-gallery-thumbnail" >
+			<a href="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image3.jpg"
+               title=" "
+               class='thickbox' rel='3adb2a193fe7b3a1199f94b58b1511c9' data-image-id="23" data-src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image3.jpg" data-thumbnail="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image3.jpg-nggid0223-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" data-title="image3" data-description=" " >
+								<img title="image3" alt="image3" src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image3.jpg-nggid0223-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" width='250' height='158' />
+							</a>
+		</div>
+	</div>
+
+                        
+ 		
+	<div id="ngg-image-24" class="ngg-gallery-thumbnail-box" style="width:25%;" >
+		<div class="ngg-gallery-thumbnail" >
+			<a href="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image4.jpg"
+               title=" "
+               class='thickbox' rel='3adb2a193fe7b3a1199f94b58b1511c9' data-image-id="24" data-src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image4.jpg" data-thumbnail="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image4.jpg-nggid0224-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" data-title="image4" data-description=" " >
+								<img title="image4" alt="image4" src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image4.jpg-nggid0224-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" width='250' height='158' />
+							</a>
+		</div>
+	</div>
+
+                            <br style="clear: both" />
+                
+ 		
+	<div id="ngg-image-25" class="ngg-gallery-thumbnail-box" style="width:25%;" >
+		<div class="ngg-gallery-thumbnail" >
+			<a href="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image5.jpg"
+               title=" "
+               class='thickbox' rel='3adb2a193fe7b3a1199f94b58b1511c9' data-image-id="25" data-src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image5.jpg" data-thumbnail="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image5.jpg-nggid0225-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" data-title="image5" data-description=" " >
+								<img title="image5" alt="image5" src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image5.jpg-nggid0225-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" width='250' height='158' />
+							</a>
+		</div>
+	</div>
+
+                        
+ 		
+	<div id="ngg-image-26" class="ngg-gallery-thumbnail-box" style="width:25%;" >
+		<div class="ngg-gallery-thumbnail" >
+			<a href="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image6.jpg"
+               title=" "
+               class='thickbox' rel='3adb2a193fe7b3a1199f94b58b1511c9' data-image-id="26" data-src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/image6.jpg" data-thumbnail="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image6.jpg-nggid0226-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" data-title="image6" data-description=" " >
+								<img title="image6" alt="image6" src="http://www.josephketnerconstruction.com/wp-content/gallery/siding/dynamic/image6.jpg-nggid0226-ngg0dyn-250x158x100-00f0w010c011r110f110r010t010.jpg" width='250' height='158' />
+							</a>
+		</div>
+	</div>
+
+                        
+ 	 	
+	<!-- Pagination -->
+ 	<div class='ngg-clear'></div> 	
+</div>
+
+
+											</div><!-- .entry-content -->
+
+					<footer class="entry-meta">
+											</footer><!-- .entry-meta -->
+				</article><!-- #post -->
+
+							
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			</div><!-- #page -->
+
+        </div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+            <div class="footer-widget-area">
+
+                <div  class="hfeed site">
+
+                    <aside id="execphp-5" class="widget-1 widget-first widget-odd widget widget_execphp"><h3 class="widget-title">Featured Projects</h3>			<div class="execphpwidget"><ul class="feature-blog-listing">
+	            <li>
+                <a class="read-more" href="http://www.josephketnerconstruction.com/featured-projects/"><img src="http://www.josephketnerconstruction.com/wp-content/uploads/2015/02/IMG_0004.jpg" alt="http://www.josephketnerconstruction.com/wp-content/uploads/2015/02/IMG_0004.jpg" class="news-thumb" /></a>
+        
+        <div class="container-blog-text"><a href="http://www.josephketnerconstruction.com/exterior-update-project-portland/" rel="bookmark" title="Permanent Link to Exterior Update Project in Portland">Exterior Update Project in Portland</a></div>
+    </li>    
+    </ul></div>
+		</aside><aside id="execphp-6" class="widget-2 widget-even widget widget_execphp"><h3 class="widget-title">Get in Touch</h3>			<div class="execphpwidget"><ul class="footer-get-in-touch">
+	<li>Joseph Ketner Construction<br/>
+5933 NE Win Sivers Drive, Suite 205<br/>
+Portland, OR 97220</li>
+	<li>(503) 504-6263</li>
+	<li><a href="mailto:info@josephketnerconstruction.com ">info@josephketnerconstruction.com </a></li>
+</ul>
+
+<ul class="footer-social-media">
+	<li><a target="_blank" href="https://twitter.com/joseph_ketner"><img alt="Follow Us on Twitter" src="http://www.josephketnerconstruction.com/wp-content/uploads/2014/03/twitter-footer.png" title="Follow Us on Twitter" /></a></li>
+	<li><a target="_blank" href="https://www.facebook.com/JosephKetnerConstruction"><img alt="Follow Us on Facebook" src="http://www.josephketnerconstruction.com/wp-content/uploads/2014/03/facebook-footer.png" title="Follow Us on Facebook" /></a></li>
+    <li><a target="_blank" href="https://plus.google.com/u/0/100000960324101092275/about/p/pub"><img alt="Follow Us on GooglePlus" src="http://www.josephketnerconstruction.com/wp-content/uploads/2015/01/googlePlus-footer.png" title="Follow Us on Google Plus" /></a></li>
+	<li><a target="_blank" href="https://www.youtube.com/channel/UCHDreGEO8JtNbH0QnNkgOgw"><img alt="Follow Us on YouTube" src="http://www.josephketnerconstruction.com/wp-content/uploads/2014/03/you-tube.png" title="Follow Us on YouTube" /></a></li>	
+    <li><a target="_blank" href="http://www.houzz.com/pro/josephketnerconstruction/joseph-ketner-construction"><img alt="Follow Us on Houzz" src="http://www.josephketnerconstruction.com/wp-content/uploads/2015/01/houzz-footer.png" title="Follow Us on Houzz" /></a></li>
+</ul>
+</div>
+		</aside><aside id="execphp-7" class="widget-3 widget-last widget-odd widget widget_execphp"><h3 class="widget-title">What Clients Say About Us</h3>			<div class="execphpwidget"><p>I want to thank Joseph Ketner Construction for going above and beyond on my project. These guys are the best! Keep up the good work!<br />
+Alex in Portland, OR</p>
+<p><a href="/contact">Request a Free Estimate</a></p>
+</div>
+		</aside>
+                </div>  
+
+            </div>          
+
+            <div class="site-info">
+
+                <div  class="hfeed site">
+
+                    <aside id="execphp-4" class="widget-1 widget-first widget-last widget-odd widget widget_execphp">			<div class="execphpwidget">&copy; 2017 Joseph Ketner Construction | CCB# 148082 | <a href=" http://www.josephketnerconstruction.com/site-map/">Site Map</a></div>
+		</aside>
+                </div>   
+
+            </div><!-- .site-info -->           
+
+		</footer><!-- #colophon -->
+
+	<!-- ngg_resource_manager_marker --><script type='text/javascript'>
+/* <![CDATA[ */
+
+var nextgen_lightbox_settings = {"static_path":"http:\/\/www.josephketnerconstruction.com\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/lightbox\/static","context":"all_images_direct"};
+var galleries = {};
+galleries.gallery_3adb2a193fe7b3a1199f94b58b1511c9 = {"id":null,"source":"galleries","container_ids":["1"],"album_ids":[],"tag_ids":[],"display_type":"photocrati-nextgen_basic_thumbnails","exclusions":[],"order_by":"sortorder","order_direction":"ASC","image_ids":[],"entity_ids":[],"tagcloud":false,"returns":"included","slug":null,"sortorder":[],"display_settings":{"override_thumbnail_settings":"1","thumbnail_width":"250","thumbnail_height":"158","thumbnail_crop":"1","images_per_page":"20","number_of_columns":"4","ajax_pagination":"1","show_all_in_lightbox":"1","use_imagebrowser_effect":"0","show_piclens_link":"0","piclens_link_text":"[Show PicLens]","show_slideshow_link":"0","slideshow_link_text":"[Show slideshow]","template":"\/home\/content\/48\/10250348\/html\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/ngglegacy\/view\/gallery.php","use_lightbox_effect":true,"display_no_images_error":1,"disable_pagination":0,"thumbnail_quality":"100","thumbnail_watermark":0,"ngg_triggers_display":"never"},"excluded_container_ids":[],"maximum_entity_count":500,"__defaults_set":true,"_errors":[],"ID":"3adb2a193fe7b3a1199f94b58b1511c9"};
+galleries.gallery_3adb2a193fe7b3a1199f94b58b1511c9.wordpress_page_root = "http:\/\/www.josephketnerconstruction.com\/gallery\/";
+var nextgen_lightbox_settings = {"static_path":"http:\/\/www.josephketnerconstruction.com\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/lightbox\/static","context":"all_images_direct"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.min.js?ver=2.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+
+var nextgen_thickbox_i18n = {"next":"Next &gt;","prev":"&lt; Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.min.js?ver=2.2.3'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/thickbox/nextgen_thickbox_init.min.js?ver=2.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.josephketnerconstruction.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/themes/josephketner/js/functions.js?ver=2013-07-18'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/wp-spamshield/js/jscripts-ftr2-min.js'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.12.4'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js?ver=2.12.4'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.swipe.min.js?ver=2.12.4'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.tile.min.js?ver=2.12.4'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.video.min.js?ver=2.12.4'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/templates/dark/script.js?ver=2.12.4'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/templates/thumbnails/script.js?ver=2.12.4'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/cyclone-slider-2/js/client.js?ver=2.12.4'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-includes/js/wp-embed.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.min.js?ver=2.2.3'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/ajax_pagination.min.js?ver=2.2.3'></script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/contact-form-plugin/js/cntctfrm.js?ver=4.6.5'></script>
+<script type='text/javascript' data-cfasync="false" async="async" defer="defer" src='https://www.google.com/recaptcha/api.js?ver=1.28'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gglcptch = {"options":{"version":"v2","sitekey":"6Lcx5xcUAAAAAKVPhlNBaQR8Nksj6MVOJI2j96wb","theme":"light","error":"<strong>Warning:<\/strong>&nbsp;It has been found more than one reCAPTCHA in current form. In this case reCAPTCHA will not work properly. Please remove all unnecessary reCAPTCHA blocks."},"vars":{"ajaxurl":"http:\/\/www.josephketnerconstruction.com\/wp-admin\/admin-ajax.php","error_msg":"Error: You have entered an incorrect reCAPTCHA value","nonce":"cacc72376c","visibility":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.josephketnerconstruction.com/wp-content/plugins/google-captcha/js/script.js?ver=4.6.5'></script>
+
+	<script type="text/javascript">
+	var GETGA_settings = {"first_delay":"2","second_delay":"3","debug":"none"};
+	var GETGA_events = [{"selector":".gtrack","description":"Generic Event Tracker","category":"Default","action_type":"click","action_label":"Default Item Clicked","label":"Default_{ITEM_TITLE}_{PAGE_URL}","status":"0"},{"selector":"a[href$=\\&quot;.pdf\\&quot;], a[href$=\\&quot;.doc\\&quot;], a[href$=\\&quot;.docx\\&quot;], a[href$=\\&quot;.ods\\&quot;], a[href$=\\&quot;.odt\\&quot;], a[href$=\\&quot;.xls\\&quot;], a[href$=\\&quot;.xlsx\\&quot;], a[href$=\\&quot;.txt\\&quot;], a[href$=\\&quot;.zip\\&quot;], a[href$=\\&quot;.csv\\&quot;]","description":"Downloads - pdf, doc(x), xls(x), txt, zip, csv","category":"Downloads","action_type":"click","action_label":"Downloaded","label":"Download_{ITEM_TITLE}_{PAGE_RELATIVE_URL}_{LINK_RELATIVE_URL}","status":"active"},{"selector":"input[type=submit]","description":"All Submit Buttons","category":"Form Submits","action_type":"click","action_label":"Form Submitted","label":"Form_Submitted_{TAG_HTML}_{PAGE_RELATIVE_URL}","status":"active"},{"selector":"form","description":"All Form Submissions","category":"Form Submits","action_type":"submit","action_label":"Form Submitted","label":"Form_Submitted_{TAG_HTML}_{PAGE_RELATIVE_URL}","status":"active"},{"selector":".gtrackexternal","description":"All External Links","category":"Links","action_type":"click","action_label":"External Links","label":"External_Link_Clicked_{TAG_HTML}_{PAGE_RELATIVE_URL}","status":"active"},{"selector":"window","description":"Resized","category":"Resized","action_type":"resize","action_label":"Resized","label":"Resized_{PAGE_RELATIVE_URL}","status":"0"},{"selector":"window","description":"Scrolled","category":"Scrolled","action_type":"scroll","action_label":"Scrolled","label":"Scrolled_{PAGE_RELATIVE_URL}","status":"0"},{"selector":"window","description":"Scrolled Depth","category":"Scrolled","action_type":"scrolldepth","action_label":"Scrolled Depth","label":"Scrolled_{SCROLL_PERCENTAGE}_{PAGE_RELATIVE_URL}","status":"0"},{"selector":"a[href^=\\&quot;tel:\\&quot;]","description":"Call","category":"Click to Call","action_type":"click","action_label":"Click to Call","label":"Click-to-Call_FROM_{PAGE_URL}","status":"active"},{"selector":"a[href^=\\&quot;mailto:\\&quot;]","description":"Click to Email","category":"Click to Email","action_type":"click","action_label":"Click to Email","label":"Email_{LINK_URL}_FROM_{PAGE_URL}","status":"active"}];
+	</script>
+	<script type="text/javascript" defer="defer" src="http://www.josephketnerconstruction.com/wp-content/plugins/gravitate-event-tracking/gravitate_event_tracking.js?v=1.5.2"></script>
+
+	
+<script type='text/javascript'>
+/* <![CDATA[ */
+r3f5x9JS=escape(document['referrer']);
+hf4N='84cbca7333270962f9a32483716eb960';
+hf4V='44ec466f5b2da35bcc1bbb9fc28e763d';
+jQuery(document).ready(function($){var e="#commentform, .comment-respond form, .comment-form, #lostpasswordform, #registerform, #loginform, #login_form, #wpss_contact_form";$(e).submit(function(){$("<input>").attr("type","hidden").attr("name","r3f5x9JS").attr("value",r3f5x9JS).appendTo(e);return true;});var h="form[method='post']";$(h).submit(function(){$("<input>").attr("type","hidden").attr("name",hf4N).attr("value",hf4V).appendTo(h);return true;});});
+/* ]]> */
+</script> 
+
+ 
+
+
+
+</body>
+
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 2221/2315 objects using disk
+Page Caching using disk: enhanced
+Database Caching 11/52 queries in 0.123 seconds using disk
+
+ Served from: www.josephketnerconstruction.com @ 2017-04-20 19:40:20 by W3 Total Cache -->
