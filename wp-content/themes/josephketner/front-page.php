@@ -13,7 +13,7 @@
 
 
 get_header(); ?>
-
+	<!-- <h1 id="headline-tag">Your Exterior Remodeling Specialists</h1> -->
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
 			<?php /* The loop */ ?>

@@ -4,18 +4,18 @@
  */
 get_header(); ?>
 
-	<div id="primary" class="content-area">
-		<div id="content" class="site-content" role="main">
-			 
+    <div id="primary" class="content-area">
+        <div id="content" class="site-content" role="main">
+             
                 <?php while ( have_posts() ) : the_post(); ?>
                 <header class="entry-header">
-					                    
+                                        
                     <h1 class="entry-title"><?php the_title(); ?></h1>
                 </header><!-- .entry-header -->
         <?php endwhile; ?> 
              
-			<div class="contant-area-left">
-				 <?php while ( have_posts() ) : the_post(); ?> 
+            <div class="contant-area-left">
+                 <?php while ( have_posts() ) : the_post(); ?> 
                  <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>  
                         <div class="entry-content">
                             <?php the_content(); ?>
@@ -27,12 +27,13 @@ get_header(); ?>
                         </footer><!-- .entry-meta -->
                     </article><!-- #post -->
                 <?php endwhile; ?>
+                <div class="contact-form"><?php echo do_shortcode('[contact_form]'); ?></div>
             </div>
             <div class="contant-area-right">
-				<?php dynamic_sidebar('Sidebar Inner Pages'); ?>
+                <?php dynamic_sidebar('Sidebar Inner Pages'); ?>
             </div>
-		</div><!-- #content -->
-	</div><!-- #primary -->
+        </div><!-- #content -->
+    </div><!-- #primary -->
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>

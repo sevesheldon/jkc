@@ -1,0 +1,215 @@
+
+/********** Slider Area **********/
+
+#headline-tag {
+    text-align: center;
+    color: #55650b;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-bottom: -60px;
+    z-index: 2;
+}
+
+.slider-area {
+	z-index: -1 !important;
+}
+
+.contant-area-left {
+    float: left;
+    margin-right: 0px;
+    max-width: 70%;
+    width: 100%;
+    padding-right: 3%;
+}
+
+.contant-area-right {
+    max-width: 30%;
+    padding-left: 3%;
+}
+
+.contact-form {
+	
+}
+
+
+@media only screen and (max-width: 1340px) {
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+	    margin-left: -5% !important;
+	    margin-bottom: 3% !important;
+	}
+
+}
+
+@media only screen and (max-width: 1280px){
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+	    margin-left: -6% !important;
+	    margin-bottom: 0% !important;
+	}
+}
+
+@media only screen and (max-width: 1180px){
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+	    margin-left: -9% !important;
+	}
+}
+
+@media only screen and (max-width: 1080px) {
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+	    margin-left: -12% !important;
+	    margin-bottom: -2% !important;
+	}
+	.slider-area .cycloneslider-caption-description div {
+	    padding: 7% 0 0 !important;
+	}
+
+}
+
+@media only screen and (max-width: 999px) {
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+	    margin-left: 8% !important;
+	}
+	.slider-area .cycloneslider-caption-description div {
+	    padding: 5% 0 0 !important;
+	    width: 17% !important;
+	}
+
+	.contant-area-left {
+		max-width: 100%;
+		padding-right: 0px;
+	}
+
+	.contant-area-right {
+		max-width: 100%;
+	}	
+
+}
+
+@media only screen and (max-width: 948px) {
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-left: 6% !important;
+	}
+
+	.slider-area .cycloneslider-caption-description div {
+    	padding: 5% 0 0 !important;
+    	width: 18% !important;
+    }	
+
+}
+
+@media only screen and (max-width: 892px) {
+
+	#headline-tag {
+	    margin-bottom: 0px;
+	    background-color: #6c3402;
+	    color: #fff;
+	    padding: 20px 0px;
+	}
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-bottom: -2% !important;
+	}
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-left: 2% !important;
+	}
+
+	.slider-area .cycloneslider-caption-description div {
+    	width: 20% !important;
+    }
+
+}
+
+@media only screen and (max-width: 825px) {
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-left: 1% !important;
+	}
+
+	.slider-area .cycloneslider-caption-description div {
+    	width: 21% !important;
+    }
+}
+
+@media only screen and (max-width: 780px) {
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-left: -4% !important;
+	}
+
+	.slider-area .cycloneslider-caption-description div {
+    	width: 24% !important;
+    }
+
+    .slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    margin-bottom: -5% !important;
+	}
+}
+
+@media only screen and (max-width: 698px) {
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-left: -4% !important;
+	}
+
+	.slider-area .cycloneslider-caption-description div {
+    	width: 24% !important;
+    }
+
+    .slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    margin-bottom: -5% !important;
+	}
+}
+
+@media only screen and (max-width: 698px) {
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-left: -7% !important;
+	}
+
+	.slider-area .cycloneslider-caption-description div {
+    	width: 25% !important;
+    }
+
+    .slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-bottom: -6% !important;
+	}
+}
+
+@media only screen and (max-width: 643px) {
+
+	.slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-left: -1% !important;
+	}
+
+    .slider-area .cycloneslider-template-standard .cycloneslider-caption {
+    	margin-bottom: 2% !important;
+	}
+
+	.cycloneslider-template-standard .cycloneslider-slide img {
+    	height: 100%;
+	}
+}
+
+@media only screen and (max-width: 499px) {
+
+	img.alignright.size-medium.wp-image-127 {
+	    width: 100%;
+	}
+
+	.site-header-top .nav-menu li {
+    	margin: 0 23px 0 0;
+	}
+
+}
+
+
+
+
+
+
+
+

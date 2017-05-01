@@ -110,6 +110,10 @@ $(document).ready(function(){
     })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
 
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/custom.css">
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
 </head>
 
 
